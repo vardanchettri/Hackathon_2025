@@ -35,7 +35,7 @@
 * LANGUAGE : C++
 ***
 # BLOCK DIAGRAM
-![image](https://github.com/user-attachments/assets/4d9a7e86-fa59-4e89-8d92-ba4a258bb0fc)
+![image](https://github.com/user-attachments/assets/2e374fc6-701e-4208-b8e5-4acc780c5fec)
 ***
 
 ## WORKING OF THE CODE(LOGIC)
