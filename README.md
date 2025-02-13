@@ -8,6 +8,7 @@
 
 ![image](https://github.com/user-attachments/assets/b48da5e9-179e-49c7-ac9a-aae386d8257e)
 ***
+###### => video presentation
 https://github.com/vardanchettri/Hackathon_2025/blob/main/HELIOS%20SYNC%20360.mp4
 ***
 ### Key Features 
@@ -237,6 +238,7 @@ void moveBothServos(int pulseWidth1, int pulseWidth2) {
 
 ![image](https://github.com/user-attachments/assets/c87c1dbc-0abb-451d-9568-972ffaf68489)
 ***
+###### => video demonstration
 https://github.com/vardanchettri/Hackathon_2025/blob/main/helioSync360sssihl.mp4
 
 
