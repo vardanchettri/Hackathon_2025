@@ -407,7 +407,6 @@ void moveBothServos(int pulseWidth1, int pulseWidth2) {
 
 
 
-<video src="video.mp4" controls width="600"></video>
 ***
 
 
