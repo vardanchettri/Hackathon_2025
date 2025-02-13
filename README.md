@@ -405,7 +405,7 @@ void moveBothServos(int pulseWidth1, int pulseWidth2) {
 # Demonstration 
 
 
-
+https://github.com/vardanchettri/Hackathon_2025/blob/main/helioSync360sssihl.mp4
 
 
 
