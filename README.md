@@ -4,7 +4,12 @@
 
 ###### ABSTRACT : This project implements a dual-axis solar tracker using a servo motor controlled by the CH32V003F4U6 microcontroller with a 32-bit RISC-V core. The system adjusts solar panel orientation to maximize energy absorption, ensuring efficiency through servo control enhancing sustainability .
 ***
+### OVERVIEW OF THE PROJECT
 
+![image](https://github.com/user-attachments/assets/b48da5e9-179e-49c7-ac9a-aae386d8257e)
+***
+https://github.com/vardanchettri/Hackathon_2025/blob/main/HELIOS%20SYNC%20360.mp4
+***
 ### Key Features 
 * Automatic Dual-Axis Tracking: Constantly adjusts solar panel orientation (azimuth and elevation) for maximum sunlight exposure.
 * Smart Microcontroller: Built on the 32-bit RISC-V core  for low power consumption and high computational performance.
@@ -230,8 +235,11 @@ void moveBothServos(int pulseWidth1, int pulseWidth2) {
 
 # Demonstration 
 
-
+![image](https://github.com/user-attachments/assets/c87c1dbc-0abb-451d-9568-972ffaf68489)
+***
 https://github.com/vardanchettri/Hackathon_2025/blob/main/helioSync360sssihl.mp4
+
+
 
 
 
