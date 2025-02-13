@@ -399,13 +399,13 @@ void moveBothServos(int pulseWidth1, int pulseWidth2) {
 
 ***
 
-### Pin diagram of VSD QUADRON MINI
-![VSDSquadronMini_pinout](https://github.com/user-attachments/assets/2f78de40-c3cf-497a-89ae-397bd831f966)
-
-***
 
 
 # Demonstration 
+
+
+
+
 https://github.com/vardanchettri/Hackathon_2025/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4
 
 
