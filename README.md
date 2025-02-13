@@ -34,7 +34,7 @@
 * FRAMEWORK : ARDUINO
 * LANGUAGE : C++
 ***
-# BLOCK DIAGRAM
+# SCHEMATIC DIAGRAM
 ![image](https://github.com/user-attachments/assets/bf3c1d5e-9929-4610-903f-394a5858a67a)
 
 ***
