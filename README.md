@@ -9,7 +9,7 @@
 ![image](https://github.com/user-attachments/assets/b48da5e9-179e-49c7-ac9a-aae386d8257e)
 ***
 ###### => video presentation
-https://github.com/vardanchettri/Hackathon_2025/blob/main/HELIOS%20SYNC%20360.mp4
+https://github.com/vardanchettri/Hackathon_2025/blob/main/presentation.mp4
 ***
 ### Key Features 
 * Automatic Dual-Axis Tracking: Constantly adjusts solar panel orientation (azimuth and elevation) for maximum sunlight exposure.
