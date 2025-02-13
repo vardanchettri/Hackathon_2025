@@ -1,4 +1,7 @@
-# Hackathon_2025
+# PROJECT HelioSync360 [Smart Dual Axis Solar Tracker]
+![Screenshot 2025-02-14 022425](https://github.com/user-attachments/assets/9a655418-36ca-4368-b4d8-b3b4906c941d)
+
+
 ###### ABSTRACT : This project implements a dual-axis solar tracker using a servo motor controlled by the CH32V003F4U6 microcontroller with a 32-bit RISC-V core. The system adjusts solar panel orientation to maximize energy absorption, ensuring efficiency through servo control enhancing sustainability .
 ***
 
@@ -394,15 +397,17 @@ void moveBothServos(int pulseWidth1, int pulseWidth2) {
 
 
 
-
+***
 
 ### Pin diagram of VSD QUADRON MINI
 ![VSDSquadronMini_pinout](https://github.com/user-attachments/assets/2f78de40-c3cf-497a-89ae-397bd831f966)
 
-
+***
 
 
 # Demonstration 
+
+
 
 ***
 
