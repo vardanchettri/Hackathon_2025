@@ -408,7 +408,7 @@ void moveBothServos(int pulseWidth1, int pulseWidth2) {
 
 https://github.com/vardanchettri/Hackathon_2025/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp.mp4
 
-
+<video src="video.mp4" controls width="600"></video>
 ***
 
 
