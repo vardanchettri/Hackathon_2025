@@ -257,6 +257,11 @@ We would like to extend my sincere gratitude to the RISC-V support team for thei
 Team : 
 Akhil ,Vardan , Prudvi , Vishnu ,  Kabiraj
 
+***
+## 📜 License  
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
+
 
 
  
