@@ -5,8 +5,11 @@
 ###### ABSTRACT : This project implements a dual-axis solar tracker using a servo motor controlled by the CH32V003F4U6 microcontroller with a 32-bit RISC-V core. The system adjusts solar panel orientation to maximize energy absorption, ensuring efficiency through servo control enhancing sustainability .
 ***
 ### OVERVIEW OF THE PROJECT
+***
 
-![image](https://github.com/user-attachments/assets/b48da5e9-179e-49c7-ac9a-aae386d8257e)
+https://github.com/user-attachments/assets/080114c1-6a1c-4703-8555-eab8bd60dfa8
+
+
 ***
 ###### => video presentation
 https://github.com/vardanchettri/Hackathon_2025/blob/main/presentation.mp4
