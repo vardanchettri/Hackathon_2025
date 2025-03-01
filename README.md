@@ -248,9 +248,7 @@ https://github.com/user-attachments/assets/9ca694ca-0e59-4f70-ab6a-a6b1d8c19e4a
 
 
 
-***
-###### => video demonstration
-https://github.com/vardanchettri/Hackathon_2025/blob/main/helioSync360sssihl.mp4
+
 
 
 
